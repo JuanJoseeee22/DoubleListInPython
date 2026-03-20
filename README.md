@@ -12,11 +12,8 @@ Una lista doblemente enlazada permite almacenar elementos de manera dinámica, d
 
 ![Image](https://ccia.ugr.es/~jfv/ed1/tedi/cdrom/icons/lenlaz2.gif)
 
-![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1748530715135/52d0559e-0767-45cf-93b6-b236ba890740.png)
-
 ![Image](https://image.slidesharecdn.com/listasdoblementeenlazadas-160520020240/85/Listas-doblemente-enlazadas-2-320.jpg)
 
-![Image](https://www.simplilearn.com/ice9/free_resources_article_thumb/Doubly-Linked-List/doubly-linked-list_traversal_img1.PNG)
 
 Es una estructura de datos compuesta por nodos, donde cada nodo tiene:
 
