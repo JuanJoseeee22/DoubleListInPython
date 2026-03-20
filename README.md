@@ -97,7 +97,7 @@ DoubleListInPython/
 ```
 
 ---
-## ▶ Uso básico
+##  Uso básico
 
 Ejemplo de uso de la lista:
 
@@ -141,7 +141,7 @@ python -m test.TestDoubleList
 
 ---
 
-## 📊 Resultado de ejecución
+##  Resultado de ejecución
 
 El sistema mostrará en consola:
 
@@ -165,7 +165,7 @@ El sistema mostrará en consola:
 * Verificar nombres de archivos
 * Revisar estructura de carpetas
 
-🔴**VS Code no detecta Python**
+**VS Code no detecta Python**
 
 * Seleccionar intérprete manualmente:
 
