@@ -1,6 +1,6 @@
 from typing import TypeVar, Generic, Optional
 
-from Node import Node
+from model.Node import Node
 
 T = TypeVar('T')
 

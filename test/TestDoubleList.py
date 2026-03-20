@@ -1,6 +1,6 @@
 import unittest
 
-from DoubleList import DoubleList
+from model.DoubleList import DoubleList
 
 class TestDoubleList(unittest.TestCase):
     def setUp(self):
